@@ -1,0 +1,10 @@
+CREATE TABLE answers (
+    answer_id INT PRIMARY KEY AUTO_INCREMENT,
+    test_id INT NOT NULL,
+    id INT NOT NULL,
+    q1_answer VARCHAR(255),
+    q2_answer VARCHAR(255),
+    q3_answer VARCHAR(255),
+    q4_answer VARCHAR(255),
+    q5_answer VARCHAR(255)
+);
