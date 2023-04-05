@@ -1,0 +1,5 @@
+id,type,first_name,last_name,Email,password
+10000,Student,Micheal,Jordan,JordanM23@studentemail.com,JM23!
+0,Teacher,John,Moore,MRMoore@teacheremail.com,ILOVE@MYWIFE!
+1,Teacher,teacher,1,teacher1@mail.com,teach1
+2,Teacher,teacher,2,teacher2@mail.com,teach2

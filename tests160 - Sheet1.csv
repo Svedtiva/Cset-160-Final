@@ -1,0 +1,4 @@
+test_id,teacher_id,q1,q2,q3,q4,q5
+1,0,2+2,2*2,3+3,5-5,1*0
+2,1,How many vowles are in 'Yawn',Write a synonym for jig,how many letters are in 'them',what is a title of a book?,5th question(cant think of one)
+3,2,translate kommen,translate frau,translate them to german,translate 'him' to german,what does 'ich' mean?
